@@ -1,6 +1,6 @@
 Light Addon for Blender that:
 
-1. 1. Allows for adjusting Light strength similarly to grab, rotate and scale with 'Alt + shift + L' and mouse movement
+1. Allows for adjusting Light strength similarly to grab, rotate and scale with 'Alt + shift + L' and mouse movement
     
 2. Adds Lamps tracked to empties to the Shift A menu. Lights appear at the 3d cursor location while empties appear at world origin
 
